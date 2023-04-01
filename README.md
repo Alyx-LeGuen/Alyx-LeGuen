@@ -8,7 +8,7 @@ Owner of https://vixenchroma.com/.
 ### - RootMe account : https://www.root-me.org/ReineRenardeQuiWoof
 ### - TryhackMe account :https://tryhackme.com/p/reinerenarde
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/reinerenarde.png" alt="TryHackMe"> Jr Penetration Tester Learning Path - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYRCTCRCG9.png">certificate</a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/reinerenarde.png" alt="alyx profile picture"> Jr Penetration Tester Learning Path - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DYRCTCRCG9.png">certificate</a>
 
 ### - HackTheBox account : https://app.hackthebox.com/profile/1411158
 
